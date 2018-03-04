@@ -28,10 +28,12 @@ _Italic_
 - [ ] Task list item 2
 
 
-| Table 1 |         |                |
-| ------- | ------- | -------------- |
-| Entry 1 | mess    |                |
-| Entry 2 |         |                |
-| Entry 3 | no mess | clean and neat |
+| Table 1 |             |                |
+|---------|-------------|----------------|
+| Entry 1 | White       |                |
+| Entry 2 | Gray        |                |
+| Entry 3 | White again | clear and neat |
 
 **_bold and Italic_**
+
+//Changed the table "Table 1"
